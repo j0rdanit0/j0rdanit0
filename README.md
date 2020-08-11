@@ -1,4 +1,4 @@
-### :smile: Jordan Simpson - :computer: Software Developer
+# Jordan Simpson - Software Developer :computer: :smile:
 
 Hi there! I am a full stack software engineer that is passionate about creating innovative software solutions. I'm constantly looking for ways to apply software automation to improve quality of life, both for users and developers.
 
