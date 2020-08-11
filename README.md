@@ -12,7 +12,7 @@ Hi there! I am a full stack software engineer that is passionate about creating 
 <br/>
 :heart: Help support [El Puente](https://elpuentesearcy.org), a non-profit in central Arkansas whose mission is to provide assistance to the local Hispanic community (I maintain their websites!)
 <br/>
-Find me on [LinkedIn](https://www.linkedin.com/in/jordan-simpson-dev/)
+:link: Connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-simpson-dev/)
 
 When I'm not developing software, I get to work my favorite jobs: husband and father. :family:
 
