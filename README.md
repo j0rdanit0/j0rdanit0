@@ -1,20 +1,47 @@
-# Jordan Simpson - Software Developer :computer: :smile:
+# Jordan Simpson - Software Developer :computer:
 
-Hi there! I am a full stack software engineer that is passionate about creating innovative software solutions. I'm constantly looking for ways to apply software automation to improve quality of life, both for users and developers.
+Hi there! :smile: I am a full stack software engineer that is passionate about creating innovative software solutions. I'm constantly looking for ways to apply software automation to improve quality of life, both for users and developers.
 
-#### Things you can do:
+When I'm not developing software, I get to work my favorite jobs: husband and father. :heart: :family:
 
-:video_game: Check out [EchoBase](https://echobase.app), my popular guild tool for the mobile game *Star Wars: Galaxy of Heroes*
-<br/>
-:speech_balloon: Play around with [EchoStation](https://discordapp.com/api/oauth2/authorize?client_id=416767534528987137&scope=bot&permissions=805829696), EchoBase's companion Discord bot
-<br/>
-:seedling: Browse my [Baeldung articles](https://www.baeldung.com/author/jordansimpson/)
-<br/>
-:heart: Help support [El Puente](https://elpuentesearcy.org), a non-profit in central Arkansas whose mission is to provide assistance to the local Hispanic community (I maintain their websites!)
-<br/>
+Here's what I'm up to:
+
+---
+
+<img width="120" align='left' src="https://echobase.app/images/icon/ms-icon-150x150.png">
+
+### EchoBase
+
+:video_game: Check out [EchoBase](https://echobase.app), my popular guild tool made specifically for the mobile gaming community of *Star Wars: Galaxy of Heroes*!
+
+* Used by **5,200+** guilds
+
+Then play around with [EchoStation](https://discordapp.com/api/oauth2/authorize?client_id=416767534528987137&scope=bot&permissions=805829696), EchoBase's companion Discord bot, for a wealth of configuration options.
+
+* Running in **3,500+** Discord servers
+* **3,200+** guilds have registered
+* **118,000+** members have registered
+
+---
+
+<img width="275" align='right' src="https://www.baeldung.com/wp-content/themes/baeldung/icon/logo.svg">
+
+:seedling: Over the years, Baeldung has helped me to understand and solve countless programming problems. I believe in giving back where I can, and so I am proud to be one of their authors! Browse my [Baeldung articles](https://www.baeldung.com/author/jordansimpson/).
+
+---
+
+<img width="200" align='left' src="https://elpuentesearcy.org/images/logo_en.png">
+
+:heart: Help support [El Puente](https://elpuentesearcy.org), a non-profit in central Arkansas whose mission is to provide assistance to the local Hispanic community.
+
+I maintain their public website as well as their private admin portal, which includes full data collection and reporting capability.
+
+---
+
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-simpson-dev/)
 
-When I'm not developing software, I get to work my favorite jobs: husband and father. :family:
+
+![Jordan's Github Stats](https://github-readme-stats.vercel.app/api?username=j0rdanit0&show_icons=true&theme=nord&count_private=true)
 
 <!--
 
