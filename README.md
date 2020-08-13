@@ -22,6 +22,8 @@ Then play around with [EchoStation](https://discordapp.com/api/oauth2/authorize?
 * **3,200+** guilds have registered
 * **118,000+** members have registered
 
+**Pro tip:** Build your own SWGOH tool [using my Java API wrapper](https://github.com/j0rdanit0/api-swgoh-help) for the [api.swgoh.help](https://api.swgoh.help) API!
+
 ---
 
 [<img width="275" align='right' src="https://www.baeldung.com/wp-content/themes/baeldung/icon/logo.svg">](https://www.baeldung.com/author/jordansimpson/)
