@@ -16,7 +16,7 @@ Here's what I'm up to:
 
 * Used by **5,200+** guilds
 
-Then play around with [EchoStation](https://discordapp.com/api/oauth2/authorize?client_id=416767534528987137&scope=bot&permissions=805829696), EchoBase's companion Discord bot, for a wealth of configuration options.
+Then play around with [EchoStation](https://discordapp.com/api/oauth2/authorize?client_id=416767534528987137&scope=bot&permissions=805829696), EchoBase's companion Discord bot, for a wealth of configuration options and additional supporting features.
 
 * Running in **3,500+** Discord servers
 * **3,200+** guilds have registered
