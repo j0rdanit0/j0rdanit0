@@ -14,13 +14,13 @@ Here's what I'm up to:
 
 :video_game: Check out [EchoBase](https://echobase.app), my popular guild tool made specifically for the mobile gaming community of *Star Wars: Galaxy of Heroes*!
 
-* Used by **7,300+** guilds
+* Used by **7,600+** guilds
 
 Then play around with [EchoStation](https://discordapp.com/api/oauth2/authorize?client_id=416767534528987137&scope=bot&permissions=805829696), EchoBase's companion Discord bot, for a wealth of configuration options and additional supporting features.
 
-* Running in **4,600+** Discord servers
-* **4,600+** guilds have registered
-* **178,000+** members have registered
+* Running in **4,800+** Discord servers
+* **4,800+** guilds have registered
+* **187,000+** members have registered
 
 **Pro tip:** Build your own SWGOH tool [using my Java API wrapper](https://github.com/j0rdanit0/api-swgoh-help) for the [api.swgoh.help](https://api.swgoh.help) API!
 
